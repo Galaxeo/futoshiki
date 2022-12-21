@@ -1,6 +1,3 @@
-#Project 2 Futoshiki
-#Justin Cheok, jhc737 & Seeger Zou, jz3714
-
 import copy
 import numpy as np
 import argparse
